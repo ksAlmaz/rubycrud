@@ -1,2 +1,2 @@
 # rubycrud
-первые настройки гита для руби
+pervaya nastrika gita dlya ruby
